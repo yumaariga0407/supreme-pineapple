@@ -1,1 +1,3 @@
 # supreme-pineapple
+
+<!DOCTYPE html>
